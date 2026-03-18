@@ -1,0 +1,52 @@
+[
+  {
+    "scenario": "Alex discovers that their closest friend has been secretly applying for the same dream job Alex has been working towards for years. The friend never mentioned it, and Alex finds out through a mutual acquaintance.",
+    "emotions": ["betrayal", "anger", "sadness", "confusion"],
+    "expected": [78, 65, 72, 60]
+  },
+  {
+    "scenario": "Maria receives a prestigious award at work in front of all her colleagues. However, she knows her manager deliberately left her main collaborator off the nomination, taking partial credit.",
+    "emotions": ["pride", "guilt", "gratitude", "discomfort"],
+    "expected": [55, 70, 35, 75]
+  },
+  {
+    "scenario": "James has been caring for his terminally ill father for months. His father passes away peacefully in his sleep. James had been estranged from his father for a decade before the illness brought them back together.",
+    "emotions": ["grief", "relief", "regret", "love"],
+    "expected": [85, 40, 60, 80]
+  },
+  {
+    "scenario": "Sophie finds out her teenage daughter has been secretly volunteering at a homeless shelter every weekend, telling Sophie she was at a friend's house. Sophie had grounded her daughter the previous week for lying about her whereabouts.",
+    "emotions": ["pride", "guilt", "surprise", "admiration"],
+    "expected": [80, 65, 75, 85]
+  },
+  {
+    "scenario": "David receives a promotion he has wanted for years, but learns that the other candidate, a single mother who desperately needed the raise, was passed over partly because of his lobbying to upper management.",
+    "emotions": ["satisfaction", "guilt", "empathy", "anxiety"],
+    "expected": [50, 75, 70, 55]
+  },
+  {
+    "scenario": "Emma's ex-partner, who broke up with her abruptly two years ago, reaches out to apologize sincerely and admits they made a terrible mistake. Emma is now happily in a new relationship.",
+    "emotions": ["vindication", "compassion", "nostalgia", "indifference"],
+    "expected": [60, 45, 55, 40]
+  },
+  {
+    "scenario": "Tom, a surgeon, successfully completes a risky 12-hour operation saving a child's life. Afterwards, he learns that during the surgery, his own mother was admitted to another hospital with a heart attack and nobody could reach him.",
+    "emotions": ["elation", "guilt", "fear", "helplessness"],
+    "expected": [70, 55, 80, 75]
+  },
+  {
+    "scenario": "Lisa accidentally reads a text on her husband's phone from his coworker that says 'I love working with you, you're amazing.' She later realizes the full context: the coworker was thanking him for covering her shifts while her child was sick.",
+    "emotions": ["relief", "embarrassment", "trust", "amusement"],
+    "expected": [75, 60, 70, 45]
+  },
+  {
+    "scenario": "An elderly man finds out his adult children have been secretly planning to move him to a care home. They believe it's for his safety after a recent fall, but he feels capable of living independently.",
+    "emotions": ["anger", "fear", "hurt", "understanding"],
+    "expected": [70, 65, 80, 35]
+  },
+  {
+    "scenario": "A teacher discovers that a student she failed last semester, who she thought was lazy and disengaged, was actually homeless and working two night jobs to support younger siblings.",
+    "emotions": ["guilt", "compassion", "admiration", "sadness"],
+    "expected": [80, 85, 70, 75]
+  }
+]

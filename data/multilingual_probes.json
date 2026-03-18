@@ -1,0 +1,60 @@
+{
+  "description": "Same math probes translated into EuroLLM-supported languages for multilingual validation",
+  "probes": [
+    {
+      "language": "fr",
+      "language_name": "French",
+      "questions": [
+        {"question": "Quel est le carré de 9437 ?", "answer": 89056969},
+        {"question": "Combien font 2 puissance 47 ?", "answer": 140737488355328},
+        {"question": "Quelle est la racine cubique de 27000000 ?", "answer": 300},
+        {"question": "Combien font 12345 multiplié par 67890 ?", "answer": 838102050},
+        {"question": "Quelle est la racine carrée de 1522756 ?", "answer": 1234}
+      ]
+    },
+    {
+      "language": "de",
+      "language_name": "German",
+      "questions": [
+        {"question": "Was ist 9437 zum Quadrat?", "answer": 89056969},
+        {"question": "Was ist 2 hoch 47?", "answer": 140737488355328},
+        {"question": "Was ist die Kubikwurzel von 27000000?", "answer": 300},
+        {"question": "Was ist 12345 mal 67890?", "answer": 838102050},
+        {"question": "Was ist die Quadratwurzel von 1522756?", "answer": 1234}
+      ]
+    },
+    {
+      "language": "es",
+      "language_name": "Spanish",
+      "questions": [
+        {"question": "¿Cuánto es 9437 al cuadrado?", "answer": 89056969},
+        {"question": "¿Cuánto es 2 elevado a 47?", "answer": 140737488355328},
+        {"question": "¿Cuál es la raíz cúbica de 27000000?", "answer": 300},
+        {"question": "¿Cuánto es 12345 multiplicado por 67890?", "answer": 838102050},
+        {"question": "¿Cuál es la raíz cuadrada de 1522756?", "answer": 1234}
+      ]
+    },
+    {
+      "language": "pt",
+      "language_name": "Portuguese",
+      "questions": [
+        {"question": "Quanto é 9437 ao quadrado?", "answer": 89056969},
+        {"question": "Quanto é 2 elevado a 47?", "answer": 140737488355328},
+        {"question": "Qual é a raiz cúbica de 27000000?", "answer": 300},
+        {"question": "Quanto é 12345 multiplicado por 67890?", "answer": 838102050},
+        {"question": "Qual é a raiz quadrada de 1522756?", "answer": 1234}
+      ]
+    },
+    {
+      "language": "nl",
+      "language_name": "Dutch",
+      "questions": [
+        {"question": "Wat is 9437 in het kwadraat?", "answer": 89056969},
+        {"question": "Wat is 2 tot de macht 47?", "answer": 140737488355328},
+        {"question": "Wat is de derdemachtswortel van 27000000?", "answer": 300},
+        {"question": "Wat is 12345 vermenigvuldigd met 67890?", "answer": 838102050},
+        {"question": "Wat is de vierkantswortel van 1522756?", "answer": 1234}
+      ]
+    }
+  ]
+}
